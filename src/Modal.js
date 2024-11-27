@@ -42,9 +42,6 @@ const ModalHeader = ({ title }) => {
   );
 };
 
-//PropTypes w React służą do walidacji typów właściwości (props) przekazywanych do komponentów. 
-//Dzięki nim można upewnić się, że komponenty otrzymują prawidłowe dane, co pomaga w wykrywaniu błędów i ułatwia zrozumienie kodu. 
-//PropTypes pozwalają na określenie, jakie typy danych są oczekiwane, a także czy dana właściwość jest wymagana.
 
 
 ModalHeader.propTypes = {
